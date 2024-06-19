@@ -11,15 +11,27 @@
  */
 class Solution {
 public:
-    void cal(TreeNode* root,int & cnt){
-        if(root==NULL) return;
-        cnt++;
-        cal(root->left,cnt);
-        cal(root->right,cnt);
+    int lh(TreeNode* node){
+        int hi=0;
+        while(node){
+            hi++;
+            node=node->left;
+        }
+        return hi;
+    }
+    int rh(TreeNode* node){
+        int hi=0;
+        while(node){
+            hi++;
+            node=node->right;
+        }
+        return hi;
     }
     int countNodes(TreeNode* root) {
-        int cnt=0;
-        cal(root,cnt);
-        return cnt;
+        int l=lh(root);
+        int r=rh(root);
+
+        if(l==r) return(1<<l)-1;
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
