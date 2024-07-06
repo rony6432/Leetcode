@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/rony6432/Leetcode/tree/master/0038-count-and-say) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rony6432/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
