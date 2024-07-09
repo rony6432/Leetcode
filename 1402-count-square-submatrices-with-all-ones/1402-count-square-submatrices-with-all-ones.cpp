@@ -16,10 +16,8 @@ public:
                     else temp[i][j]=matrix[i][j];
 
                 }
-                cout<<temp[i][j]<<" ";
                 maxi+=temp[i][j];
             }
-            cout<<endl;
         }
         return maxi;
     }
