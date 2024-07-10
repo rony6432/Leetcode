@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/rony6432/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rony6432/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/rony6432/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rony6432/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rony6432/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rony6432/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/rony6432/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/rony6432/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [1720-crawler-log-folder](https://github.com/rony6432/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rony6432/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rony6432/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1720-crawler-log-folder](https://github.com/rony6432/Leetcode/tree/master/1720-crawler-log-folder) |
 ## String Matching
 |  |
 | ------- |
