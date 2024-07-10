@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/rony6432/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/rony6432/Leetcode/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rony6432/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/rony6432/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/rony6432/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rony6432/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1250-longest-common-subsequence](https://github.com/rony6432/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
