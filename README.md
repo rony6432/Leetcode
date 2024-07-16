@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/rony6432/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1720-crawler-log-folder](https://github.com/rony6432/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rony6432/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -145,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rony6432/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rony6432/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Indexed Tree
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rony6432/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
