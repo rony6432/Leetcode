@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rony6432/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/rony6432/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rony6432/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rony6432/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -146,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rony6432/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rony6432/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Indexed Tree
@@ -164,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
