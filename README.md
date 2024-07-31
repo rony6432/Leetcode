@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/rony6432/Leetcode/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rony6432/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1196-filling-bookcase-shelves](https://github.com/rony6432/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/rony6432/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rony6432/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rony6432/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/rony6432/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1196-filling-bookcase-shelves](https://github.com/rony6432/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/rony6432/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rony6432/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
