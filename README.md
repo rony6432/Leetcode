@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/rony6432/Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rony6432/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0921-spiral-matrix-iii](https://github.com/rony6432/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rony6432/Leetcode/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rony6432/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/rony6432/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/rony6432/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/rony6432/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rony6432/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rony6432/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rony6432/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/rony6432/Leetcode/tree/master/0542-01-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/rony6432/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rony6432/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rony6432/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
