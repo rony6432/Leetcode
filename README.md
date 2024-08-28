@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rony6432/Leetcode/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/rony6432/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/rony6432/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/rony6432/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rony6432/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rony6432/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rony6432/Leetcode/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/rony6432/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rony6432/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rony6432/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rony6432/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/rony6432/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/rony6432/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/rony6432/Leetcode/tree/master/0115-distinct-subsequences) |
