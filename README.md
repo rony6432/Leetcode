@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rony6432/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rony6432/Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rony6432/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rony6432/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rony6432/Leetcode/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/rony6432/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0740-delete-and-earn](https://github.com/rony6432/Leetcode/tree/master/0740-delete-and-earn) |
