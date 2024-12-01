@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/rony6432/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rony6432/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rony6432/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rony6432/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rony6432/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/rony6432/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rony6432/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/rony6432/Leetcode/tree/master/0740-delete-and-earn) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rony6432/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rony6432/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rony6432/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rony6432/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rony6432/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rony6432/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rony6432/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rony6432/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rony6432/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rony6432/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rony6432/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/rony6432/Leetcode/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rony6432/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rony6432/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rony6432/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rony6432/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rony6432/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
