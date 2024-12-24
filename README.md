@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rony6432/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/rony6432/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rony6432/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rony6432/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rony6432/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/rony6432/Leetcode/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/rony6432/Leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rony6432/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/rony6432/Leetcode/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rony6432/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rony6432/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/rony6432/Leetcode/tree/master/1129-longest-string-chain) |
