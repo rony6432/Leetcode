@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rony6432/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rony6432/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rony6432/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rony6432/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rony6432/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rony6432/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rony6432/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rony6432/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rony6432/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rony6432/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rony6432/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rony6432/Leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rony6432/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/rony6432/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rony6432/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0744-network-delay-time](https://github.com/rony6432/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/rony6432/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rony6432/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rony6432/Leetcode/tree/master/0040-combination-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rony6432/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
